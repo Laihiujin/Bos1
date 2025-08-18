@@ -1,0 +1,28 @@
+{
+  "1": {
+    "top_template": "引流预设.mov",
+    "middle_template": "无",
+    "bottom_template": "无",
+    "random_timing_enabled": false,
+    "random_timing_window": 50,
+    "advanced_timing_enabled": true,
+    "random_timing_mode": "range",
+    "random_timing_start": 17,
+    "random_timing_end": 28,
+    "random_timing_exact": 30,
+    "exact_timing_enabled": false,
+    "top_alpha_clip_enabled": false,
+    "top_alpha_clip_start": 0,
+    "top_alpha_clip_duration": 5,
+    "middle_alpha_clip_enabled": false,
+    "middle_alpha_clip_start": 0,
+    "middle_alpha_clip_duration": 10,
+    "bottom_alpha_clip_enabled": false,
+    "bottom_alpha_clip_start": 0,
+    "bottom_alpha_clip_duration": 7,
+    "preset": "medium",
+    "crf": 23,
+    "audio_bitrate": 192,
+    "max_workers": 8
+  }
+}
